@@ -1,0 +1,13 @@
+opensearch.url=http://war.webarchiv.cz:8080/nutch/opensearch.xml
+opensearch.xsl_template=nutch.xsl
+opensearch.total_records_xpath=//opensearch:totalResults/text()
+opensearch.namespace.nutch=http://www.nutch.org/opensearchrss/1.0/
+opensearch.namespace.opensearch=http://a9.com/-/spec/opensearchrss/1.0/
+operator.and=AND
+operator.or=
+key.srw.serverChoice=
+key.cql.serverChoice=
+key.cql.any=
+key.title=title
+key_value_separator=:
+
