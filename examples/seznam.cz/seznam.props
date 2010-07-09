@@ -1,0 +1,15 @@
+opensearch.url=opensearch.xml
+opensearch.xsl_template=seznam.xsl
+opensearch.records_xpath=//item
+opensearch.total_records_xpath=//opensearch:totalResults/text()
+opensearch.namespace.opensearch=http://a9.com/-/spec/opensearch/1.1/
+opensearch.namespace.atom=http://www.w3.org/2005/Atom
+opensearch.namespace.seznam=http://www.seznam.cz
+operator.and=AND
+operator.or=
+key.srw.serverChoice=
+key.cql.serverChoice=
+key.cql.any=
+key.title=title
+key_value_separator=:
+

@@ -1,0 +1,9 @@
+<OpenSearchDescription>
+<ShortName>seznam.cz</ShortName>
+<Description>seznam.cz opensearch.</Description>
+<Tags>seznam.cz</Tags>
+<Contact>nobody@example.com</Contact>
+<Url type="application/rss+xml"
+  template="http://search.seznam.cz/?q={searchTerms}&amp;count={count?}&amp;from={startIndex?}&amp;format=rss"/>
+</OpenSearchDescription>
+
